@@ -1,6 +1,6 @@
 SIMPLE TRAIN TICKET BOOKING USING ANDROID STUDIO
 
-ANDROID VERSION
+ANDROID STUDIO VERSION
 
 ![Screenshot (1434)](https://github.com/Prasathlonelyking/TrainTicketBooking-Using-Android-Studio/assets/119600246/16c3e47d-ce77-49ed-931c-84119b9a0b45)
 
